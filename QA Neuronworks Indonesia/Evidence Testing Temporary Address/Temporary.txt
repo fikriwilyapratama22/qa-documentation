@@ -1,0 +1,309 @@
+1
+Login menggunakan akun AM, kemudian akses menu MyQuote
+
+
+
+2
+Klik tombol New, pop up create quote akan muncul
+
+
+
+3
+Isi sales team, kemudian pickup
+
+
+
+4
+Isi field mandatory (CA dan expiration days)
+
+
+
+5
+Klik save, kemudian diarahkan ke halaman Quote Header
+
+
+
+6
+Ke halaman Quote Detail tab Catalog, pilih produk AstiNet kemudian klik Add Item, muncul notifikasi berhasil menambahkan product pada Quote Header
+
+ 
+
+
+
+7
+Klik tab Line Items untuk melihat detail item pada produk
+
+
+
+8
+Login menggunakan akun SE, klik My Quote kemudian memilih Quote yang telah dibuat
+
+ 
+
+
+
+9
+Menuju Quote Details, tab Line Items
+
+
+
+10
+Klik pada root item product, kemudian klik Edit, muncul pop up edit line item
+
+
+
+11
+Klik tombol pada field Service Address, kemudian ubah opsi dari NCX address menjadi Temporary Address
+
+
+
+12
+Klik tombol Create New
+
+
+
+13
+Setelah pop up muncul, enable opsi Existing Address
+
+
+
+14
+Klik pada field District, pilih address kemudian OK
+
+
+
+15
+Klik Save, kemudian Pickup
+
+ 
+
+
+
+16
+Isi data line item mandatory (SLG dan Term of payment), kemudian save
+
+
+
+17
+Pilih root line item, klik Feasibility Check
+
+
+
+18
+Pilih NTE type STP dan CE Type Router, kemudian klik Submit
+
+
+
+19
+Pada halaman feasibility, Klik filter data. Klik tombol Check Feasibility untuk melihat titik ODP.
+
+
+
+20
+Pilih salah satu titik. Klik Set Alpro + Reserve Port kemudian Submit
+
+  
+
+
+
+21
+Kembali ke Quote Header, klik Verify. Tunggu hingga verify selesai dengan status Passed
+
+  
+
+
+
+22
+Login kembali menggunakan akun AM, kemudian menuju My Quote. Pilih Quote yang sebelumnya dibuat.
+
+
+
+23
+Klik Generate Approval pada Quote Header
+
+ 
+
+
+
+24
+Login menggunakan akun SM, menuju My Inbox
+
+
+
+25
+Klik tombol aksi, pada quote yang akan dilakukan approval
+
+
+
+26
+Klik tombol Approve
+
+  
+
+
+
+27
+Login kembali dengan menggunakan akun AM, menuju My Quote, kemudian pilih Quote yang telah dibuat
+
+
+
+28
+Scroll ke bagian Quote Details, pilih tab Proposal. Klik pada Attachment Name, klik tombol Send to Customer. Saat muncul pop up konfirmasi, enable Automatically Physical, kemudian klik Send.
+
+  
+
+
+
+29
+Kembali ke Quote Header, klik Accepted by Customer.
+
+
+
+30
+Tunggu hingga status berubah menjadi Accepted by Customer.
+
+
+
+31
+Ke Quote Details, klik tab Agreements
+
+
+
+32
+Klik tombol Auto Contract, agreement berhasil dibuat dan diarahkan ke halaman Agreement Info
+
+
+
+33
+Klik Edit, akan ditampilkan form Edit Agreement. Enable pada kolom KB Final Exist, akan muncul form KB Naming. Isi data pada form KB Naming dan Edit Agreement, klik Save
+
+ 
+
+
+
+34
+Scroll ke bagian Agreement Detail, klik tab Contract Document, kemudian upload Contract Document.
+
+  
+
+
+
+35
+Masih pada Agreement Detail, pilih tab Line Items
+
+
+
+36
+Klik root line item, klik tombol Edit, akan muncul popup Edit Line Item. Pilih Billing Account kemudian Save
+
+ 
+
+
+
+37
+Kembali ke Agreement Info, klik Generate Approval for Activation
+
+ 
+
+
+
+38
+Login dengan akun SM, klik My Agreement
+
+
+
+39
+Pilih Agreement yang dibuat sebelumnya, maka akan masuk ke halaman Agreement Info. Klik tombol Approve for Activation
+
+ 
+
+
+
+40
+Login dengan akun AM, masuk My Quote
+
+
+
+41
+Pilih Quote, scroll ke bagian Quote Details, klik tab Line Items Approval
+
+
+
+42
+Pilih Billing Account dan Service Account, kemudian pickup
+
+ 
+
+
+
+43
+Pada tabel, scroll ke kanan, klik checklist pada kolom Edit
+
+
+
+44
+Klik tombol Save
+
+
+
+45
+Scroll ke kanan kembali pada tabel, klik pada checkbox Sync Service Address
+
+
+
+46
+Klik tombol Sync Service Address
+
+
+
+47
+Scroll kembali ke kanan pada tabel, klik pada checkbox Request Approval
+
+
+
+48
+Klik tombol Request Approval
+
+
+
+49
+Login dengan akun SM untuk approval
+
+
+
+50
+Buka menu My Inbox, klik pada Quote yang akan dilakukan approval, maka akan diarahkan pada halaman Quote Header
+
+
+
+51
+Scroll hingga Quote Details, klik tab Line Items Approval
+
+
+
+52
+Scroll ke kanan pada tabel, klik pada checkbox Approve, kemudian klik tombol Approve
+
+ 
+
+
+
+53
+Login kembali dengan akun AM, menuju menu My Quote
+
+
+
+54
+Klik pada Quote yang telah dibuat, kemudian scroll ke bagian Quote Details. Pilih tab Line Items Approval
+
+
+
+55
+Scroll ke kanan pada tabel, klik pada checkbox Order Now, kemudian klik tombol Set Order Now
+
+ 
+
+
+
+56
+Kembali ke Quote Header, klik tombol Auto Order

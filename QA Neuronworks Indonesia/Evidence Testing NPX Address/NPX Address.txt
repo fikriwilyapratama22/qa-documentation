@@ -1,0 +1,225 @@
+1
+Login menggunakan akun AM, kemudian akses menu MyQuote
+
+ 
+
+
+
+2
+Klik tombol New, pop up create quote akan muncul
+
+
+
+3
+Isi sales team, kemudian pickup
+
+
+
+4
+Isi field mandatory (CA dan expiration days)
+
+
+
+5
+Klik save, kemudian diarahkan ke halaman Quote Header. Scroll hingga Quote Detail kemudian klik tab Catalog, pilih produk AstiNet kemudian klik Add Item, muncul notifikasi berhasil menambahkan product pada Quote Header. Klik tab Line Items untuk melihat detail item pada produk
+
+
+
+6
+Login menggunakan akun SE, klik My Quote kemudian memilih Quote yang telah dibuat
+
+
+
+7
+Menuju Quote Details, tab Line Items
+
+
+
+8
+Klik pada root item product, kemudian klik Edit, muncul pop up edit line item. Klik tombol pada field Billing Account, kemudian klik Pickup. Klik tombol pada field Service Account, kemudian klik Pickup. Klik tombol pada field Service Address, kemudian klik Pickup. Selanjutnya, isi data line item mandatory (SLG dan Term of payment), kemudian save
+
+
+
+9
+Pilih root line item, klik Feasibility Check. Pilih NTE type STP dan CE Type Router, kemudian klik Submit
+
+
+
+10
+Pada halaman feasibility, Klik filter data. Klik tombol Check Feasibility untuk melihat titik ODP. Pilih salah satu titik. Klik Set Alpro + Reserve Port kemudian Submit
+
+  
+
+
+
+11
+Kembali ke Quote Header, klik Verify. Tunggu hingga verify selesai dengan status Passed
+
+ 
+
+
+
+12
+Login kembali menggunakan akun AM, kemudian menuju My Quote. Pilih Quote yang sebelumnya dibuat.
+
+
+
+13
+Klik Generate Approval pada Quote Header
+
+
+
+14
+Login menggunakan akun SM, menuju My Quote. Pilih Quote yang telah dibuat sebelumnya.
+
+ 
+
+
+
+15
+Klik tombol Approve
+
+ 
+
+
+
+16
+Login kembali dengan menggunakan akun AM, menuju My Quote, kemudian pilih Quote yang telah dibuat
+
+
+
+17
+Scroll ke bagian Quote Details, pilih tab Proposal. Klik pada Attachment Name, klik tombol Send to Customer. Saat muncul pop up konfirmasi, enable Automatically Physical, kemudian klik Send.
+
+ 
+
+
+
+18
+Kembali ke Quote Header, klik Accepted by Customer.
+
+
+
+19
+Tunggu hingga status berubah menjadi Accepted by Customer.
+
+
+
+20
+Ke Quote Details, klik tab Agreements. Klik tombol Auto Contract, agreement berhasil dibuat dan diarahkan ke halaman Agreement Info
+
+ 
+
+
+
+21
+Klik Edit, akan ditampilkan form Edit Agreement. Enable pada kolom KB Final Exist, akan muncul form KB Naming. Isi data pada form KB Naming dan Edit Agreement, klik Save
+
+ 
+
+
+
+22
+Scroll ke bagian Agreement Detail, klik tab Contract Document, kemudian upload Contract Document.
+
+ 
+
+
+
+23
+Masih pada Agreement Detail, pilih tab Line Items
+
+
+
+24
+Klik root line item, klik tombol Edit, akan muncul popup Edit Line Item. Pilih Billing Account kemudian Save
+
+
+
+25
+Kembali ke Agreement Info, klik Generate Approval for Activation
+
+ 
+
+
+
+26
+Login dengan akun SM, klik My Agreement
+
+
+
+27
+Pilih Agreement yang dibuat sebelumnya, maka akan masuk ke halaman Agreement Info. Klik tombol Approve for Activation
+
+ 
+
+
+
+28
+Login dengan akun AM, masuk My Quote
+
+
+
+29
+Pilih Quote, scroll ke bagian Quote Details, klik tab Line Items Approval
+
+
+
+30
+Pilih Billing Account, Service Account dan Service Address. Kemudian, klik pickup
+
+  
+
+
+
+31
+Pada tabel, scroll ke kanan, klik checklist pada kolom Edit. Klik tombol Save
+
+
+
+32
+Scroll kembali ke kanan pada tabel, klik pada checkbox Request Approval
+
+
+
+33
+Klik tombol Request Approval
+
+
+
+34
+Login dengan akun SM untuk approval
+
+
+
+35
+Buka menu My Inbox, klik pada Quote yang akan dilakukan approval, maka akan diarahkan pada halaman Quote Header. Scroll hingga Quote Details, klik tab Line Items Approval
+
+
+
+36
+Scroll ke kanan pada tabel, klik pada checkbox Approve, kemudian klik tombol Approve
+
+ 
+
+
+
+37
+Login kembali dengan akun AM, menuju menu My Quote
+
+
+
+38
+Klik pada Quote yang telah dibuat, kemudian scroll ke bagian Quote Details. Pilih tab Line Items Approval
+
+
+
+39
+Scroll ke kanan pada tabel, klik pada checkbox Order Now, kemudian klik tombol Set Order Now
+
+ 
+
+
+
+40
+Kembali ke Quote Header, klik tombol Auto Order
